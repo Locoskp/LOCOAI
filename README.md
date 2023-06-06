@@ -56,5 +56,5 @@ We would like to express our gratitude to OpenAI for providing the powerful GPT-
 
 ## Contact
 
--For any inquiries or feedback, please contact the project team at [Contact Dev](mailto:favourajokubi@gmail.com).
--Check Out Developer [Repo](https://github.com/fabiconcept)
+- For any inquiries or feedback, please contact the project team at [Contact Dev](mailto:favourajokubi@gmail.com).
+- Check Out Developer [Repo](https://github.com/fabiconcept)
