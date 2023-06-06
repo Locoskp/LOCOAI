@@ -1,4 +1,4 @@
-# Loco GPT
+## Loco GPT
 
 Loco GPT is an AI assistant powered by OpenAI's GPT-3.5 API. It is designed and implemented as part of a final year project titled "Design & Implementation of an AI Assistant." This project aims to develop a chatbot using advanced natural language processing techniques.
 
@@ -56,5 +56,5 @@ We would like to express our gratitude to OpenAI for providing the powerful GPT-
 
 ## Contact
 
-For any inquiries or feedback, please contact the project team at [Contact Dev](mailto:favourajokubi@gmail.com).
-Check Out Developer [Repo](https://github.com/fabiconcept)
+-For any inquiries or feedback, please contact the project team at [Contact Dev](mailto:favourajokubi@gmail.com).
+-Check Out Developer [Repo](https://github.com/fabiconcept)
